@@ -1,5 +1,5 @@
 ## Usage
 
-- \$git clone https://github.com/wmgcuan/docsify.git
+- \$ git clone https://github.com/wmgcuan/docsify.git
 - \$ npm install
-- \$ npm run server
+- \$ npm run view
